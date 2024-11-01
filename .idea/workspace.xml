@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f468b15b-772b-4adf-a91e-ea2d6c1c6493" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/workingfileofcleaningpas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pas_refseq_cleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/pas_refseq_cleaning.py" afterDir="false" />
-    </list>
+    <list default="true" id="f468b15b-772b-4adf-a91e-ea2d6c1c6493" name="Changes" comment="PAS code to clean the file." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,12 +85,47 @@
       <workItem from="1730373719488" duration="4256000" />
       <workItem from="1730382053377" duration="6261000" />
       <workItem from="1730408383099" duration="81000" />
-      <workItem from="1730460299289" duration="1148000" />
+      <workItem from="1730460299289" duration="1323000" />
     </task>
+    <task id="LOCAL-00001" summary="PAS code to clean the file.">
+      <option name="closed" value="true" />
+      <created>1730461537870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730461537870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Subject" />
+        <option value="Default.Date" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PAS code to clean the file." />
+    <option name="LAST_COMMIT_MESSAGE" value="PAS code to clean the file." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/prokaryote_assembly_data$pas_refseq_cleaning.coverage" NAME="pas_refseq_cleaning Coverage Results" MODIFIED="1730460872267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
